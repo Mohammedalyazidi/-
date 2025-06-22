@@ -6,8 +6,7 @@
 <img src="https://github.com/Mohammedalyazidi/-/blob/8a0705f863dd28e33f4f1ec958eb995a315ed3e1/app1.jpg" alt="App Screenshot" width="300"/>
 
 ---
-<img src="https://github.com/Mohammedalyazidi/-/blob/71795cb90565515950aac8f0fae08dec48c15410/app2.jpg
-" alt="App Screenshot" width="300"/>
+<img src="https://github.com/Mohammedalyazidi/-/blob/71795cb90565515950aac8f0fae08dec48c15410/app2.jpg" alt="App Screenshot" width="300"/>
 
 ## 📦 Download APK
 
