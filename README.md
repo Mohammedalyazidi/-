@@ -3,7 +3,7 @@
 
 ## 📱 Screenshot
 
-<img src="https://yourdomain.com/path-to-screenshot.png" alt="App Screenshot" width="300"/>
+<img src="https://github.com/Mohammedalyazidi/-/blob/8a0705f863dd28e33f4f1ec958eb995a315ed3e1/app1.jpg" alt="App Screenshot" width="300"/>
 
 ---
 
